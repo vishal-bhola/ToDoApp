@@ -1,5 +1,9 @@
 # ToDoApp
-A well ToDoApp in JavaScript
+My Awesome ToDoApp in JavaScript
+
+
+
+![ToDoApp](https://user-images.githubusercontent.com/38592928/59423271-7029d280-8def-11e9-9e63-11bb390d6c1f.jpg)
 
 
 
